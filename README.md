@@ -2,6 +2,7 @@
 - 👋 Hi, I’m @Longinushadow
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning algorithm
+- (⊙o⊙)？Maybe now I'm studying rust
 
 
 <!---
